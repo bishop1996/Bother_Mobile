@@ -55,7 +55,6 @@ node_modules/@framer/colebemis.feather-icons/code/App.tsx
 node_modules/@framer/colebemis.feather-icons/build/index.js
 node_modules/@framer/colebemis.feather-icons/README.md
 design/images/zfP79NFbMD4kNx2yBFdsqIQkrFc.png
-design/images/yniniRKbiu7xTaJBSrJWWaDKz34.jpg
 design/images/vtgVHwZG1ONpIAP5jeupZWk2A.png
 design/images/rzQm6jVyjdMHbuLWgqMmhMyMrs.jpg
 design/images/r6mdCzNOB3H6d6rUMbwyjFDyo.jpg
@@ -66,9 +65,7 @@ design/images/P5gzR6XYZxgfueokvKRiH7T908Q.jpg
 design/images/Nz5vnnezypoTeHj4qb66MQ7hahQ.png
 design/images/NJPN8jApUW31sBs3CoVoXWntROs.png
 design/images/KCdbxzEmsIq8DEV8bWy36Iujvk.png
-design/images/JPewXT8VFJzr6WN33Iyvpaizz30.png
 design/images/IVai6IzTfgBCCzzoGeT9iFYYSbo.png
-design/images/EQi8aeuDieuJsZpun2zZGtQ.png
 design/images/DaICBiORfOIk7U6Dox5h9S5dRCE.jpg
 design/images/B6dvX4eh7erkhCnDaRFsDCFTo4.png
 design/images/Af1Wzmv8dlY9QlMQuaoz3bI4GE.jpg
